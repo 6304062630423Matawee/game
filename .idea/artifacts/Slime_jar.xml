@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Slime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Slime_jar</output-path>
+    <root id="archive" name="Slime.jar">
+      <element id="module-output" name="Slime" />
+    </root>
+  </artifact>
+</component>
